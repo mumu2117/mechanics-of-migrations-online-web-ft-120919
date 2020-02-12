@@ -11,3 +11,10 @@ gem "pry"
 gem "sinatra-activerecord", :require => "sinatra/activerecord"
 gem "rspec"
 gem "database_cleaner"
+
+
+
+# require 'yaml/store'
+# require 'ostruct'
+# require 'date'
+
